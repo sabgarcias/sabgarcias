@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=510&lines=OLÁ%2C+SOU+SABRINA+GARCIA;ESTUDANTE+DE+SEGURANÇA+DA+INFORMAÇÃO;CODANDO+EM+C%2C+PYTHON+E+JS;BUSCANDO+DESAFIOS+COMPLEXOS" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9400D3&center=true&vCenter=true&width=300&lines=Olá%2C+seja+bem+vindo!" alt="Typing Animation" />
 </p>
 
 ---
@@ -52,5 +52,5 @@ Este projeto de faculdade atesta minha capacidade analítica e de criar algoritm
 ### 📈 Estatísticas do Meu Perfil
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME]&show_icons=true&theme=vue&include_all_commits=true&count_private=true&locale=pt" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sabgarcias&show_icons=true&theme=vue&include_all_commits=true&count_private=true&locale=pt" alt="Estatísticas do GitHub" />
 </p>
