@@ -48,8 +48,6 @@ Este projeto de faculdade atesta minha capacidade analítica e de criar algoritm
 
 ---
 
-### 📈 Estatísticas do Meu Perfil
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabgarcias&show_icons=true&theme=vue&include_all_commits=true&count_private=true&locale=pt" alt="Estatísticas do GitHub" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF7F&center=true&vCenter=true&width=450&lines=HAPPY+HACKING!;CODE+IS+LIFE" alt="Dynamic Footer Animation" />
 </p>
