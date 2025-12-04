@@ -50,11 +50,7 @@ Este projeto de faculdade atesta minha capacidade analítica e de criar algoritm
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9400D3&center=true&vCenter=true&width=450&lines=HAPPY+HACKING!;CODE+IS+LIFE" alt="Dynamic Footer Animation" />
+
+   **Obrigado pela visita!**
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[SEU_USERNAME]&label=Visualizações+no+Perfil&color=blueviolet&style=flat" alt="Profile Views Counter" />
-
-  
-  **Obrigado pela visita!**
-</p>
