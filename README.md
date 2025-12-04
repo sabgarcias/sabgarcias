@@ -12,7 +12,7 @@ Minha base de código é sólida em linguagens de baixo nível como **C**, e pos
 -   🧠 **Bio:** Em constante aprendizado e experimentação. A curiosidade e a resolução de problemas guiam minha trajetória.
 -   🔭 **Foco de Estudo Atual:** Criptografia, Pentesting e Segurança de Redes.
 -   💬 **Pergunte-me sobre:** Linguagem C, desenvolvimento *full-stack* e análise de sistemas.
--   🔗 **Conecte-se Comigo:** [![LinkedIn](https://www.linkedin.com/in/sabrina-garcia-10b28919b/)
+-   🔗 **Conecte-se Comigo:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-garcia-10b28919b/)
 
 ---
 
